@@ -1,5 +1,5 @@
-<h1 align="center">Hi, my name is Andrea</h1>
-<h2 align="center">Junior Full-Stack Developer</h2>
+<h1>Hi, my name is Andrea</h1>
+<h2>Junior Full-Stack Developer</h2>
 
 - ✉️ You can contact me at this email: **pes.andrea@outlook.it**
 
