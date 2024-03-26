@@ -8,9 +8,9 @@
 - 🎮 Passionate gamer: **I have been a video game enthusiast since childhood and one day I hope to work in this industry as a developer**
 
 <h3 align="left">Languages and Tools:</h3>
-<div href="https://skillicons.dev">
-[![My skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,git,github,nodejs,postman,react,redux,sass,ts,visualstudio,vscode,windows)](https://skillicons.dev)
-</div>
+
+[![My skills](https://skillicons.dev/icons?i=js,html,css,cs)](https://skillicons.dev)
+
 
 <div>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=andreapes6&show_icons=true&locale=en&layout=compact&theme=dark" alt="andreapes6" />
