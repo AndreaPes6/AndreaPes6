@@ -5,7 +5,7 @@
 
 - 📫 How can Reach me **https://www.linkedin.com/in/andrea-pes-938845214/**
 
-- 🎮passionate gamer **I have been an enthusiast gamer since childhood and someday I hope to work on some such project**
+- 🎮passionate gamer **I have been a video game enthusiast since childhood and one day I hope to work in this industry as a developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
