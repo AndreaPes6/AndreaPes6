@@ -12,7 +12,7 @@
 ---
 
 <a href="mailto:pes.andrea@outlook.it">
-  <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
+  <img height="32" align="left" alt="Mail" src="/AndreaPes6/AndreaPes6/blob/main/Assets/gmail.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/andrea-pes-938845214/">
