@@ -16,9 +16,9 @@
 </a>
 
 <a href="https://www.linkedin.com/in/andrea-pes-938845214/">
-  <img height="32" align="left" alt="LinkedIn" src="https://github.com/AndreaPes6/AndreaPes6/blob/main/Assets/instagram.png" />
+  <img height="32" align="left" alt="Instagram" src="https://github.com/AndreaPes6/AndreaPes6/blob/main/Assets/instagram.png" />
 </a>
 
 <a href="https://www.instagram.com/andrea__pes/">
-  <img height="32" align="left" alt="Instagram" src="[img/icons/instagram.pn](https://github.com/AndreaPes6/AndreaPes6/blob/main/Assets/gmail.png)https://github.com/AndreaPes6/AndreaPes6/blob/main/Assets/linkedin.pngg" />
+  <img height="32" align="left" alt="Linkedin" src="[img/icons/instagram.pn](https://github.com/AndreaPes6/AndreaPes6/blob/main/Assets/gmail.png)https://github.com/AndreaPes6/AndreaPes6/blob/main/Assets/linkedin.png" />
 </a>
