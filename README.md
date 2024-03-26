@@ -6,10 +6,19 @@
 
 - 🎮 Passionate gamer: **I have been a video game enthusiast since childhood and one day I hope to work in this industry as a developer**
 
- #### 📫 How to reach me:
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/andrea-pes-938845214/) [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/andrea__pes/)  &nbsp; <a href="mailto:pes.andrea@outlook.it"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-  
-  #### 👨🏻‍💻 Languages and Tools <br />
-
 #### 👨🏻‍💻 Languages and Tools <br />
 [![My skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,git,github,nodejs,postman,react,redux,sass,ts,visualstudio,vscode,windows)](https://skillicons.dev)
+
+---
+
+<a href="mailto:pes.andrea@outlook.it">
+  <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/andrea-pes-938845214/">
+  <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+</a>
+
+<a href="https://www.instagram.com/andrea__pes/">
+  <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+</a>
