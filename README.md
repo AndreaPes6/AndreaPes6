@@ -1,11 +1,11 @@
 <h1 align="center">Hi Guys, my name is Andrea Pes</h1>
 <h3 align="center">Junior Full-Stack Developer</h3>
 
-- ✉️ You can contact me at this email **pes.andrea@outlook.it**
+- ✉️ You can contact me at this email: **pes.andrea@outlook.it**
 
-- 📫 How can Reach me **https://www.linkedin.com/in/andrea-pes-938845214/**
+- 📫 How can Reach me: **https://www.linkedin.com/in/andrea-pes-938845214/**
 
-- 🎮passionate gamer **I have been a video game enthusiast since childhood and one day I hope to work in this industry as a developer**
+- 🎮 Passionate gamer: **I have been a video game enthusiast since childhood and one day I hope to work in this industry as a developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
