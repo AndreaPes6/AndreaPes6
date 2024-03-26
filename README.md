@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=17F700&background=000000&center=true&random=false&width=500&height=150&lines=Hello+World!;My+name+is+Andrea;Welcome+to+my+readme" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=17F700&background=000000&center=true&random=false&width=500&height=150&lines=Hello+World!+;My+name+is+Andrea;Welcome+to+my+readme)](https://git.io/typing-svg)
 
 - ✉️ You can contact me at this email: **pes.andrea@outlook.it**
 
