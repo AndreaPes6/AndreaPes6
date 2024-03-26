@@ -1,5 +1,4 @@
-<h1>Hi, my name is Andrea</h1>
-<h2>Junior Full-Stack Developer</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=17F700&background=000000&center=true&random=false&width=500&height=150&lines=Hello+World!;My+name+is+Andrea;Welcome+to+my+readme" alt="Typing SVG" /></a>
 
 - ✉️ You can contact me at this email: **pes.andrea@outlook.it**
 
