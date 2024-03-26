@@ -20,5 +20,5 @@
 </a>
 
 <a href="https://www.instagram.com/andrea__pes/">
-  <img height="32" align="left" alt="Linkedin" src="[img/icons/instagram.pn](https://github.com/AndreaPes6/AndreaPes6/blob/main/Assets/gmail.png)https://github.com/AndreaPes6/AndreaPes6/blob/main/Assets/linkedin.png" />
+  <img height="32" align="left" alt="Linkedin" src="https://github.com/AndreaPes6/AndreaPes6/blob/main/Assets/linkedin.png" />
 </a>
