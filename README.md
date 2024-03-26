@@ -9,11 +9,6 @@
 #### 👨🏻‍💻 Languages and Tools <br />
 [![My skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,git,github,nodejs,postman,react,redux,sass,ts,visualstudio,vscode,windows)](https://skillicons.dev)
 
-<p><strong>Junior Full-Stack & Dreamer.
-<br><br> Vibing to : 🎧  </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/Andreaaapesss) <br>
-
 ---
 
 <a href="mailto:pes.andrea@outlook.it">
