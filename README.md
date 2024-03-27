@@ -9,10 +9,10 @@
   <img width="20" alt="Dev" src="https://github.com/AndreaPes6/AndreaPes6/blob/main/Assets/hyperkitty.gif" /> <strong> &nbsp&nbsp&nbsp I'm learning to code to become a game developer.</strong>
 </li>
 <li>
-  <img width="25" alt="Dev" src="https://github.com/AndreaPes6/AndreaPes6/blob/main/Assets/message.gif" /> <strong> &nbsp&nbsp Ask me about Videogame, Manga and Animation</strong>
+  <img width="25" alt="Dev" src="https://github.com/AndreaPes6/AndreaPes6/blob/main/Assets/message.gif" /> <strong> &nbsp&nbsp Ask me about Videogame, Food and Manga.</strong>
 </li>
 <li>
-  <img width="15" alt="Dev" src="https://github.com/AndreaPes6/AndreaPes6/blob/main/Assets/lightning.gif" /> <strong> &nbsp&nbsp&nbsp&nbsp Fun fact: Pes is my surname and in Latin it means "feet"</strong>
+  <img width="15" alt="Dev" src="https://github.com/AndreaPes6/AndreaPes6/blob/main/Assets/lightning.gif" /> <strong> &nbsp&nbsp&nbsp&nbsp Fun fact: Pes is my surname and in Latin it means "feet".</strong>
 </li>
 </ul>
 
